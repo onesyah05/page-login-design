@@ -11,3 +11,7 @@
 5. Buat tombol login dua warna, dan kalau bisa di kasi tindakan ketika cursor mendekat.
 
 ![masuk_login](https://raw.githubusercontent.com/onesyah05/page-login-design/master/tombol_masuk.png)
+
+6. Buat 2 buah input yang sudutnya di beri radius, dan memiliki efect shadow
+
+--untuk warna bebas terserah, yang penting efect nya terlihat dan indah di mata
